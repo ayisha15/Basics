@@ -1,0 +1,49 @@
+﻿<Window x:Class="Delivery.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Delivery"
+        mc:Ignorable="d"
+        Title="Calculator" Height="350" Width="250" BorderThickness="5">
+    <StackPanel Background="AliceBlue">
+
+        <TextBox BorderThickness="5" Height="100" Width="250" FontSize="20" FontWeight="Bold" IsReadOnly="True" TextAlignment="Right" x:Name="txtresult"/>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Button Content="1" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd1" Click="number_Click"/>
+            <Button Content="2" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd2" Click="number_Click"/>
+            <Button Content="3" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd3" Click="number_Click"/>
+            <Button Content="+" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btdadd" Click="oper_Click"/>
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Button Content="4" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd4" Click="number_Click"/>
+            <Button Content="5" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd5" Click="number_Click"/>
+            <Button Content="6" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd6" Click="number_Click"/>
+            <Button Content="-" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btdsub" Click="oper_Click"/>
+
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            
+            <Button Content="7" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd7" Click="number_Click"/>
+            <Button Content="8" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd8" Click="number_Click"/>
+            <Button Content="9" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd9" Click="number_Click"/>
+            <Button Content="*" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btdmlt" Click="oper_Click"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Button Content="c" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btdclear" Click="Btdclear_Click"/>
+            <Button Content="0" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btd0" Click="number_Click"/>
+            <Button Content="/" FontSize="20" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btddiv" Click="oper_Click"/>
+            <Button Content="=" FontSize="20" Background="Green" FontWeight="Bold" Width="50" Height="50" Margin="2" x:Name="Btdequl" Click="Btdequl_Click"/>
+
+        </StackPanel>
+
+
+
+
+
+    </StackPanel>
+</Window>

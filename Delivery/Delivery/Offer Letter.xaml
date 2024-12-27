@@ -1,0 +1,51 @@
+﻿<Window x:Class="Delivery.Offer_Letter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Delivery"
+        mc:Ignorable="d"
+        Title="Offer_Letter" Height="450" Width="800">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        
+    
+         <StackPanel>
+            <Label Content="Logo"></Label>
+            <TextBox x:Name="txtlogo" MaxLength="50" TabIndex="1" TextChanged="txtlogo_TextChanged"></TextBox>
+            <Label x:Name="lbllen" Foreground="Green"></Label>
+            <Label Content="Title"></Label>
+            <TextBox x:Name="txttitle" TabIndex="2"></TextBox>
+            <Label Content="Name"></Label>
+            <TextBox x:Name="txtname" TabIndex="3"></TextBox>
+            <Label Content="Company Name"></Label>
+            <TextBox x:Name="txtcname" TabIndex="4"></TextBox>
+            <Label Content="Job Title"></Label>
+            <TextBox x:Name="txtjtitle" TabIndex="5"></TextBox>
+            <Label Content="Salary per month"></Label>
+            <TextBox x:Name="txtmonthly" TabIndex="6"></TextBox>
+            <Label Content="Annual CTC"></Label>
+            <TextBox x:Name="txtCTC" TabIndex="7"></TextBox>
+            <Label Content="Supervisor Title"></Label>
+            <TextBox x:Name="txtsprtitle" TabIndex="8"></TextBox>
+            <Label Content="Supervisor name"></Label>
+            <TextBox x:Name="txtsprname" TabIndex="9"></TextBox>
+            <Label Content="Desired starting date"></Label>
+            <TextBox x:Name="txtstartingdate" TabIndex="10"></TextBox>
+            <Label Content="Desired starting time"></Label>
+            <TextBox x:Name="txtstartingtime" TabIndex="11"></TextBox>
+            <Label Content="Name of person to report on start date"></Label>
+            <TextBox x:Name="txtreportperson" TabIndex="12"></TextBox>
+            <Label Content="Last date for offer acceptance"></Label>
+            <TextBox x:Name="txtlastacceptancedate" TabIndex="13"></TextBox>
+            <Label Content="Name of person authorized to make offer"></Label>
+            <TextBox x:Name="txtauthorizedperson" TabIndex="14"></TextBox>
+
+
+            <Button Content="Accept" x:Name="btnaccept" IsTabStop="True" IsDefault="True" Click="btnaccept_Click"></Button>
+            <Button Content="Clear" x:Name="btnclear" Click="btnclear_Click" IsCancel="True"></Button>
+
+            <TextBox x:Name="txtoffer" AcceptsReturn="True" Width="1500" Height="1000" HorizontalAlignment="Left"></TextBox>
+        </StackPanel>
+
+    </ScrollViewer>
+</Window>

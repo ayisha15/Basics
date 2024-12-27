@@ -1,0 +1,86 @@
+C:\Users\ELCOT\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.exe
+C:\Users\ELCOT\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.deps.json
+C:\Users\ELCOT\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.runtimeconfig.json
+C:\Users\ELCOT\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.dll
+C:\Users\ELCOT\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.cache
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.lref
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.g.resources
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfoInputs.cache
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfo.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.dll
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\refint\Delivery.dll
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.genruntimeconfig.cache
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\ref\Delivery.dll
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\home.g.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\home.baml
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.g.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.baml
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Game.g.cs
+C:\Users\ELCOT\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Game.baml
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.exe
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.deps.json
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.runtimeconfig.json
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.dll
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Game.g.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Home.g.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.g.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.cache
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.lref
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Game.baml
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Home.baml
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.baml
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.g.resources
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfoInputs.cache
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfo.cs
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.dll
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\refint\Delivery.dll
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.genruntimeconfig.cache
+C:\Users\ayish\Downloads\Delivery\Delivery\Delivery\obj\Debug\net8.0-windows\ref\Delivery.dll
+C:\Users\ayish\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.exe
+C:\Users\ayish\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.deps.json
+C:\Users\ayish\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.runtimeconfig.json
+C:\Users\ayish\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.dll
+C:\Users\ayish\source\repos\Delivery\Delivery\bin\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Game.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Home.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.cache
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery_MarkupCompile.lref
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Game.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Home.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\LOGIN FORM.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.g.resources
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfoInputs.cache
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.AssemblyInfo.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.csproj.CoreCompileInputs.cache
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.dll
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\refint\Delivery.dll
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.pdb
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Delivery.genruntimeconfig.cache
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\ref\Delivery.dll
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Offer Letter.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Offer Letter.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Email.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Email.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Substring.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Substring.baml
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Test questions.g.cs
+C:\Users\ayish\source\repos\Delivery\Delivery\obj\Debug\net8.0-windows\Test questions.baml
